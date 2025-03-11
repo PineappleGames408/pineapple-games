@@ -159,14 +159,12 @@ header nav ul li:hover {
 }
 
 #projects ul li {
-    width: 33.3%;
-    float: left;
     margin-bottom: 15px;
 }
 
 #projects img {
-    width: 280px;
-    height: 170px;
+    width: 560px;
+    height: 340px;
     border-radius: 5px;
 }
 
